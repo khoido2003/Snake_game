@@ -13,8 +13,6 @@ Before you begin, make sure you have the following installed:
 - **Python (3.x recommended)**
 - **Turtle graphics library** (usually comes with Python)
 
-## Getting Started
-
 ## How to Play
 
 🎮 **Controls:** Utilize the arrow keys (`↑`, `↓`, `←`, `→`) to skillfully navigate the snake.
@@ -26,13 +24,23 @@ Before you begin, make sure you have the following installed:
 🔄 **Restart:** Rekindle your snake's journey with a simple press of a specific key (e.g., `R`).
 
 
-----------------------------------------------------------------------------------------------------------
 
- **Clone the repository**:
+---
+## Documentation
 
-   ```bash
-   git clone https://github.com/yourusername/Snake_game.git
-   cd Snake_game
+📚 **Link to the documentation**: [Python Turtle Documentation](https://docs.python.org/3/library/turtle.html)
+
+---
+
+## Getting Started
+
+To start playing the Snake game, follow these steps:
+
+**Clone the repository:**
+
+```bash
+git clone https://github.com/yourusername/Snake_game.git
+cd Snake_game
 
 
 
