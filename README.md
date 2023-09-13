@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="snake_game.png" alt="Snake Game">
+</div>
 
 # Snake Game using Python Turtle Graphics
 
